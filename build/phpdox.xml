@@ -12,8 +12,7 @@
     <source type="git" />
     <source type="phploc" />
     <source type="checkstyle" />
-    <source type="pmd" />
-    <source type="phpunit" />
+    <source type="pmd" />  
    </enrich>
 
    <build engine="html" enabled="true" output="api">
